@@ -2,6 +2,14 @@
 
 ##Data Inspection
 
+1. lines (col), words, size. -var
+2. colms ( rows and colms) -var
+3. head, tail - var
+4. file type
+5. view files "cat", less 
+6. view specific colums
+7. 
+
 ###Attributes of `fang_et_al_genotypes`
 
 ```
